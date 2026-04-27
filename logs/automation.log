@@ -1,0 +1,639 @@
+00:05:07.276 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+00:05:07.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.282 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.282 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.285 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.290 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+00:05:07.297 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+00:05:07.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+00:05:07.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.300 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.301 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.301 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.302 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.302 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.306 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.307 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+00:05:07.307 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.309 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.309 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:05:07.309 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:05:07.315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akhil\AppData\Local\Temp\testng-eclipse-546312367\testng-customsuite.xml
+
+00:05:07.336 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+00:05:09.747 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+00:05:09.988 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+00:05:11.471 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+00:05:12.485 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+00:05:17.739 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@68809cc7: 39 ms
+00:05:17.740 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3241713e: 1 ms
+00:05:17.746 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1ded7b14: 6 ms
+00:05:17.751 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@21ab988f: 5 ms
+00:05:17.754 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a50ae65: 3 ms
+00:05:17.755 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1280851e: 1 ms
+00:37:09.477 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.480 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.482 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.482 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.483 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.483 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.483 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.483 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.488 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+00:37:09.494 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+00:37:09.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.497 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.497 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.498 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.498 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.501 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.501 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.502 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.503 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.503 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.503 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.504 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.504 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:09.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:09.512 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akhil\AppData\Local\Temp\testng-eclipse--25699810\testng-customsuite.xml
+
+00:37:09.530 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+00:37:11.994 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+00:37:12.099 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+00:37:13.490 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+00:37:14.494 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+00:37:15.098 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+00:37:15.448 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5ca1f591: 30 ms
+00:37:15.451 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6075b2d3: 1 ms
+00:37:15.456 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@726a17c4: 5 ms
+00:37:15.460 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@12a160c2: 3 ms
+00:37:15.463 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6b63d445: 3 ms
+00:37:15.463 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7578e06a: 0 ms
+00:37:51.292 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.294 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+00:37:51.296 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.296 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.297 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.297 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.297 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+00:37:51.309 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+00:37:51.310 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.310 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.311 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.311 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.311 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.311 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.313 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.314 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.314 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.314 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.317 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.317 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.318 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.319 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.319 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.319 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:37:51.319 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:37:51.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akhil\AppData\Local\Temp\testng-eclipse-1425065699\testng-customsuite.xml
+
+00:37:51.339 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+00:37:53.413 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+00:37:53.489 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+00:37:54.844 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+00:37:55.847 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+00:38:01.422 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+00:38:01.622 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6ef81f31: 38 ms
+00:38:01.624 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@997d532: 1 ms
+00:38:01.629 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@c4c0b41: 5 ms
+00:38:01.633 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6b3871d6: 4 ms
+00:38:01.638 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@30b2b76f: 4 ms
+00:38:01.638 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@56da52a7: 0 ms
+00:45:20.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+00:45:23.188 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+00:45:23.287 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+00:45:24.765 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+00:45:24.766 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+00:45:27.996 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+01:05:38.189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:05:40.464 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+01:05:40.600 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+01:05:41.993 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+01:05:41.995 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+01:05:45.234 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+01:06:00.607 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:06:04.438 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+01:06:04.552 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+01:06:05.942 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+01:06:05.942 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+01:06:09.171 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+01:11:35.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\crossbrowsertestorparallel.xml
+
+01:11:37.336 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+01:11:37.336 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+01:11:37.488 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+01:11:37.505 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+01:11:38.867 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+01:11:38.868 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+01:11:38.928 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+01:11:38.929 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+01:11:42.177 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+01:11:42.264 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+01:29:44.845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:30:09.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+01:30:09.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.559 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.559 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.560 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+01:30:09.572 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+01:30:09.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.581 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.581 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.581 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+01:30:09.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:09.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:09.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akhil\AppData\Local\Temp\testng-eclipse--1528606232\testng-customsuite.xml
+
+01:30:09.607 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+01:30:09.738 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4bc28c33: 39 ms
+01:30:09.752 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@c1bd0be: 14 ms
+01:30:09.762 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e22550a: 10 ms
+01:30:09.770 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a7288a3: 7 ms
+01:30:09.775 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@aa549e5: 5 ms
+01:30:09.775 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@36f48b4: 0 ms
+01:32:35.768 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:33:09.424 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:34:13.679 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.682 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.685 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.685 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.689 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+01:34:13.694 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+01:34:13.696 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+01:34:13.696 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.697 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.697 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.703 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.703 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.704 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.705 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.705 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:34:13.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:34:13.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akhil\AppData\Local\Temp\testng-eclipse-1658236615\testng-customsuite.xml
+
+01:34:13.727 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+01:34:13.867 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5c153b9e: 42 ms
+01:34:13.883 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1c6804cd: 15 ms
+01:34:13.892 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@62452cc9: 9 ms
+01:34:13.900 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58fe0499: 8 ms
+01:34:13.905 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3b7ff809: 5 ms
+01:34:13.906 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1bb564e2: 0 ms
+01:35:45.776 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:35:48.879 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+01:35:49.048 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+01:35:50.540 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+01:35:50.541 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+01:35:53.796 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+22:57:29.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+22:57:39.139 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+22:57:39.431 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+22:57:41.210 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+22:57:41.210 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+22:57:46.458 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+23:56:10.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+23:56:14.070 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+23:56:14.330 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+23:56:16.157 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+23:56:16.157 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+23:56:20.574 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+23:57:53.660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+23:57:57.254 [main] INFO  testCases.TC002_LoginTest - **** Started TC002_loginTest ****
+00:00:39.988 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+00:00:45.160 [main] INFO  testCases.TC002_LoginTest - **** Started TC002_loginTest ****
+00:34:09.830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+00:34:15.446 [main] INFO  testCases.TC002_LoginTest - **** Started TC002_loginTest ****
+00:38:11.334 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+00:38:14.706 [main] INFO  testCases.TC002_LoginTest - **** Started TC002_loginTest ****
+00:38:18.118 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_loginTest ****
+00:40:19.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+00:40:22.366 [main] INFO  testCases.TC002_LoginTest - **** Started TC002_loginTest ****
+00:40:25.829 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_loginTest ****
+00:43:53.013 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+00:43:56.031 [main] INFO  testCases.TC002_LoginTest - **** Started TC002_loginTest ****
+00:43:59.584 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_loginTest ****
+01:21:59.076 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:22:03.858 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:22:06.441 [main] INFO  testCases.TC003_LoginTestDDT - Logged with valid credentials test pass
+01:22:06.823 [main] INFO  testCases.TC003_LoginTestDDT - Logged with valid credentials test pass
+01:22:06.824 [main] INFO  testCases.TC003_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:22:06.832 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:22:07.459 [main] INFO  testCases.TC003_LoginTestDDT - Logged with invalid credentials test fail
+01:22:08.573 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:22:09.201 [main] INFO  testCases.TC003_LoginTestDDT - Logged with invalid credentials test fail
+01:22:11.019 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:22:12.254 [main] INFO  testCases.TC003_LoginTestDDT - Logged with invalid credentials test fail
+01:22:12.611 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:23:47.327 [main] INFO  testCases.TC003_LoginTestDDT - Logged with invalid credentials test fail
+01:29:36.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:29:40.798 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:29:43.205 [main] INFO  testCases.TC003_LoginTestDDT - Logged with valid credentials test pass
+01:29:43.643 [main] INFO  testCases.TC003_LoginTestDDT - Logged with valid credentials test pass
+01:29:43.644 [main] INFO  testCases.TC003_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:29:43.661 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:29:45.546 [main] INFO  testCases.TC003_LoginTestDDT - Logged with valid credentials test pass
+01:29:46.153 [main] INFO  testCases.TC003_LoginTestDDT - Logged with valid credentials test pass
+01:29:46.153 [main] INFO  testCases.TC003_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:29:46.160 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:29:48.010 [main] INFO  testCases.TC003_LoginTestDDT - Logged with invalid credentials test fail
+01:29:48.485 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:29:49.337 [main] INFO  testCases.TC003_LoginTestDDT - Logged with invalid credentials test fail
+01:29:50.361 [main] INFO  testCases.TC003_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:29:52.486 [main] INFO  testCases.TC003_LoginTestDDT - Logged with invalid credentials test fail
+01:31:05.637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:31:24.129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:32:13.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:36:54.421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+15:11:09.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+15:11:42.632 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+15:13:32.931 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+15:18:56.068 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+15:18:57.336 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+15:18:57.364 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+15:22:55.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+15:22:56.264 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+15:22:56.283 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:44:05.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+19:44:07.084 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:44:07.112 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:56:34.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+19:56:34.593 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:56:34.620 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:02:25.334 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:02:25.828 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:02:25.853 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:04:35.611 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:04:36.073 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:04:36.088 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:13:09.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:13:10.165 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:13:10.182 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:15:59.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:15:59.631 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:15:59.650 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:19:48.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:19:49.308 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:19:49.326 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:34:29.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:34:30.238 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:34:30.273 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:36:57.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:36:57.899 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:36:57.915 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:43:04.268 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:43:05.169 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:43:05.381 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:56:51.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:56:52.818 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:56:52.832 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:56:56.487 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:56:57.231 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:56:57.250 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:56:57.896 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:56:57.909 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:56:58.496 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:56:58.512 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:56:59.195 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:56:59.209 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:56:59.868 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:59:01.973 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+20:59:02.406 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:59:02.431 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:59:08.790 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:59:09.493 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:59:09.508 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:59:10.300 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:59:10.329 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:59:10.997 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:59:11.023 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:59:11.696 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+20:59:11.721 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+20:59:12.380 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+21:00:38.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+21:00:39.250 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+21:00:39.276 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+21:00:43.339 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:00:44.940 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+21:00:44.959 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:00:45.665 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+21:00:45.675 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:00:46.494 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+21:00:46.508 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:00:47.094 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+21:00:47.111 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:00:47.760 [main] ERROR testCases.TC004_LoginTestDDT - Test failed due to exception: Keys to send should be a not null CharSequence
+21:02:23.186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+21:02:23.595 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+21:02:23.616 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+21:02:26.630 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:02:29.215 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+21:02:29.578 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:02:29.584 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:02:32.229 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+21:02:32.237 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:02:53.187 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:02:53.187 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:02:53.187 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:03:14.956 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:03:14.958 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:03:14.961 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:03:37.024 [main] ERROR testCases.TC004_LoginTestDDT - Valid login - Failed
+21:10:03.606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+21:10:04.016 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+21:10:04.037 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+21:10:08.730 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:10:12.283 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+21:10:12.857 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:10:12.859 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:10:15.470 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+21:10:15.965 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:10:15.969 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:10:36.991 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:10:36.991 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:10:36.991 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:10:59.463 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:10:59.463 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:10:59.470 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:11:22.181 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:11:22.181 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:13:33.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+21:13:34.311 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+21:13:34.338 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+21:13:38.734 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:13:41.864 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+21:13:42.347 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:13:42.354 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:13:44.879 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+21:13:45.338 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:13:45.340 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:14:06.305 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:14:06.305 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:14:06.315 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:14:27.085 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:14:27.085 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+21:14:27.085 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+21:14:49.038 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+21:14:49.038 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:38:41.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:38:43.494 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+01:38:43.509 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+01:38:47.849 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:38:50.694 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+01:38:51.107 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:38:51.114 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:38:53.560 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+01:42:30.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:42:31.207 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+01:42:31.228 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+01:42:35.024 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:42:38.006 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+01:42:38.502 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:42:38.508 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:42:41.414 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+01:42:41.641 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:43:04.269 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+01:43:04.276 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:43:04.276 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:43:25.029 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+01:43:25.031 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:43:25.033 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:43:45.874 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+01:43:45.874 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:49:46.753 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\test-output\testng-failed.xml
+
+01:49:47.268 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+01:49:47.283 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+01:49:50.486 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:49:53.909 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+01:54:34.407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+01:54:35.183 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+01:54:35.224 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+01:54:40.134 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:54:43.416 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+01:54:43.839 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:54:43.845 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:54:46.188 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+01:54:46.328 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:55:08.118 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+01:55:08.120 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:55:08.120 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:55:29.080 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+01:55:29.080 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+01:55:29.080 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+01:55:49.906 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+01:55:49.906 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:03:41.367 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+02:03:42.311 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+02:03:42.344 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+02:03:46.984 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:03:49.536 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+02:03:50.331 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:03:50.344 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:03:53.436 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+02:03:53.578 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:04:14.352 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+02:04:14.352 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:04:14.352 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:04:35.119 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+02:04:35.119 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:04:35.119 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:04:56.001 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+02:04:56.001 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:10:25.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+02:10:26.560 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+02:10:26.590 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+02:10:31.797 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:10:35.475 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+02:10:35.895 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:10:35.900 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:10:38.749 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+02:10:38.932 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:11:01.118 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+02:11:01.118 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:11:01.120 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:11:24.410 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+02:11:24.410 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+02:11:24.416 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+02:11:45.352 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+02:11:45.353 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+23:26:58.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+23:27:01.192 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+23:27:01.250 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+23:27:07.763 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+23:27:10.851 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+23:27:11.360 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+23:27:11.387 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+23:27:14.654 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+23:27:14.809 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+23:27:37.489 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+23:27:37.489 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+23:27:37.505 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+23:28:00.917 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+23:28:00.933 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+23:28:00.961 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+23:28:24.363 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+23:28:24.363 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
