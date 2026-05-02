@@ -36,14 +36,5 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/akhil/.m2/repository/org/seleniumhq/selenium/selenium-support/4.43.0/selenium-support-4.43.0.jar" sourcepath="C:/Users/akhil/.m2/repository/org/seleniumhq/selenium/selenium-support/4.43.0/selenium-support-4.43.0-sources.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
-			<attribute name="maven.artifactId" value="selenium-support"/>
-			<attribute name="maven.version" value="4.43.0"/>
-			<attribute name="maven.scope" value="compile"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
