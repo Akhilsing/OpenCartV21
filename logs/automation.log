@@ -685,3 +685,210 @@
 15:32:49.058 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
 15:33:11.738 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
 15:33:11.738 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:12:49.273 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:12:49.292 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:12:52.015 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:12:54.551 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:12:55.013 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:12:55.031 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:12:57.956 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+16:12:58.143 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:13:19.066 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:13:19.067 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:13:19.068 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:13:40.462 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:13:40.462 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:13:40.464 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:14:01.477 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:14:01.478 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:16:59.123 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:16:59.141 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:17:02.117 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:17:04.528 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:17:05.013 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:17:05.044 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:17:07.439 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+16:17:07.590 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:17:29.302 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:17:29.303 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:17:29.305 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:17:52.018 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:17:52.018 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:17:52.024 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:18:13.559 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:18:13.575 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:18:45.828 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:18:45.855 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:18:48.633 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:18:51.136 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:18:51.558 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:18:51.579 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:18:54.039 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+16:18:54.171 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:19:15.831 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:19:15.831 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:19:15.831 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:19:37.958 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:19:37.958 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:19:37.960 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:19:59.112 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:19:59.112 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:23:23.352 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:23:23.379 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:23:26.098 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:23:28.359 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:23:28.732 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:23:28.744 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:23:30.805 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+16:23:30.944 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:23:52.302 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:23:52.302 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:23:52.304 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:24:12.993 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:24:12.993 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:24:12.999 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:24:35.217 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:24:35.217 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:25:35.304 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:25:35.340 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:25:40.014 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:25:43.360 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:25:43.903 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:25:43.918 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:25:47.618 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+16:25:47.744 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:26:09.934 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:26:09.938 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:26:09.942 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:26:30.783 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:26:30.783 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:26:30.790 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:26:51.549 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:28:34.815 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\testng.xml
+
+16:28:35.284 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:28:35.307 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:28:39.715 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:28:42.145 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:28:42.502 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:28:42.519 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:28:44.493 [main] ERROR testCases.TC004_LoginTestDDT - Invalid login - Failed
+16:28:44.609 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:29:06.322 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:29:06.324 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:29:06.331 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:29:27.003 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:29:27.003 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:29:27.007 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:29:47.595 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:31:57.131 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:31:57.149 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:31:59.991 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:32:02.558 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:32:02.980 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:32:02.998 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:32:05.174 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:32:05.568 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:32:05.571 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:32:28.110 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:32:28.110 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:32:28.112 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:32:48.791 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:32:48.791 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:32:48.792 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:33:09.402 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:33:09.403 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:33:09.404 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:33:31.361 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:39:02.593 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:39:02.609 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:39:05.071 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:39:07.678 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:39:08.050 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:39:08.060 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:39:09.695 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:39:10.012 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:39:10.016 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:39:30.729 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:39:30.729 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:39:30.731 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:39:52.135 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:39:52.135 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:39:52.137 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:40:14.043 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:40:14.045 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:40:14.046 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:40:34.645 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:43:09.096 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:43:09.113 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:43:13.268 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:43:15.615 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:43:16.053 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:43:16.064 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:43:18.839 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:43:19.155 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:43:19.157 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:43:40.588 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:43:40.589 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:43:40.590 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:44:02.307 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:44:02.308 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:44:02.309 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:44:25.080 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:44:25.080 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:44:25.083 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:44:45.715 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:50:06.904 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:50:06.920 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:50:10.143 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:50:14.353 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:50:16.017 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:50:16.032 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:50:20.167 [main] INFO  testCases.TC004_LoginTestDDT - Valid login - Passed
+16:50:20.859 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:50:20.863 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:50:41.636 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:50:41.652 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:50:41.659 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:51:03.070 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:51:03.078 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:51:03.078 [main] INFO  testCases.TC004_LoginTestDDT - **** Started TC003_LoginTestDDT ****
+16:51:24.047 [main] INFO  testCases.TC004_LoginTestDDT - Invalid login - Passed
+16:51:24.047 [main] INFO  testCases.TC004_LoginTestDDT - **** Finished TC003_LoginTestDDT ****
+16:56:38.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\crossbrowsertestorparallel.xml
+
+16:56:38.598 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:56:38.626 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:56:42.304 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:56:42.471 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+16:56:46.262 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+16:56:46.262 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+16:56:51.187 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+16:56:52.151 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 147.0.3912.98 (resolved driver for Edge 147)
+16:56:52.158 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://msedgedriver.microsoft.com/147.0.3912.98/edgedriver_win64.zip
+16:56:52.819 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file edgedriver_win64.zip
+16:56:53.043 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\akhil\.cache\selenium\msedgedriver\win64\147.0.3912.98\msedgedriver.exe
+16:56:54.795 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:56:54.985 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+16:56:56.591 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+16:56:56.592 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+16:57:00.940 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+16:57:34.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationProjects\OpenCartV21\crossbrowsertestorparallel.xml
+
+16:57:34.508 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 147.0.3912.98 (resolved driver for Edge 147)
+16:57:34.508 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+16:57:34.526 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\akhil\.cache\selenium\msedgedriver\win64\147.0.3912.98\msedgedriver.exe
+16:57:34.526 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akhil\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+16:57:36.542 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:57:36.565 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:57:36.855 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+16:57:36.949 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on the MyAccount link ***
+16:57:39.091 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+16:57:39.091 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+16:57:39.305 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+16:57:39.305 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Filling the Registration from ***
+16:57:42.786 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***
+16:57:43.735 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Test execution is finished ***

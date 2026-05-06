@@ -208,13 +208,13 @@ public class ExcelUtility {
 	    // Gets total number of columns
 	    // Benefit: dynamic → works even if columns increase/decrease
 
-	    System.out.println(colCount);
+	    System.out.println("ColCount" + colCount);
 
 	    int rowCount = ws.getLastRowNum();
 	    // Gets last row index (total rows)
 	    // Benefit: helps loop through all test data rows
 
-	    System.out.println(rowCount);
+	    System.out.println("rowCount" + rowCount);
 
 	    DataFormatter formatter = new DataFormatter();
 	    // Converts any cell type (number/string/date) → String
@@ -223,8 +223,8 @@ public class ExcelUtility {
 	    System.out.println(formatter);
 
 	    // Loop through each data row (skip header row)
-	    for (int i = rownum + 1; i <= rowCount; i++) {
-
+	    for (int i = rownum + 1; i < rowCount; i++) {
+	    
 	        Row row = ws.getRow(i);
 	        // Gets current row
 
